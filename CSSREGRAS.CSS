@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(150deg, #555555, #2c1115);
+	background-size: 120% 120%;
+}
+
+.titulo {
+    padding-top: 50px;
+    padding-left: 300px;
+    padding-right: 100px;
+    color: #000000;
+    display: flex; display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.sub-titulo { 
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+.CRP-titulo {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+
+.Explicacao { 
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+
+}
+
+.pontos{
+    padding-right: 100px;
+    padding-left: 200px;
+    padding-top: 100px;
+    width: 1000px;
+    color: #ffff;
+}
+
+.atributos-img {
+    width: 800px;
+    padding-left: 200px;
+    align-items: center;
+    margin: 10px;
+
+}
+
+.pontos {
+    padding-right: 100px;
+    padding-left: 200px;
+    padding-top: 100px;
+    width: 1000px;
+    color: #ffff;
+
+}
+
+.pericias-titulo {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+
+.pericias-img {
+    width: 300px;
+    padding-left: 200px;
+    align-items: center;
+    margin: 80px;
+}
+
+.inventario-img {
+    width: 600px;
+    padding-left: 200px;
+    align-items: center;
+    margin: 10px;
+}
+
+.lvl-maximo {
+    padding-right: 100px;
+    padding-left: 50px;
+    padding-top: 100px;
+    width: 1000px;
+    color: #ffff;
+}
+
+.maximo {
+    padding-top: 50px;
+    padding-left: 02px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+
+.vigor-titulo {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+
+.vigor-explicacao {
+    padding-right: 100px;
+    padding-left: 50px;
+    width: 1000px;
+    color: #ffff;
+
+}
+
+.lista {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+
+.complicacao {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+
+.Explicacao2 {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 200px;
+    color: #ffff;
+    display: flex;
+    width: 5000px;
+}
+
+.Explicacao3 {
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 200px;
+    color: #ffff;
+    width: 2000px;
+}
+
+.obs {
+    color: rgb(191, 194, 11);
+    padding-left: 50px;
+}
+
+.atb-explicacao {
+    color: #ffff;
+    padding-left: 30px;
+}
+
+.rituais {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 100px;
+    color: #ffff;
+    display: flex;
+}
+
+tbody {
+ justify-content: space-between;
+}
+
+
